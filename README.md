@@ -1,5 +1,4 @@
-# i_am_rich
-
+# Complete Configuration 
 A new Flutter project.
 
 ## Getting Started
